@@ -1,0 +1,40 @@
+# Python相关
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.coveragerc
+.cache
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.nox
+.coverage.*
+.gitignore
+.pytest_cache
+.pytest_cache/
+
+# 编辑器相关
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.*.sw[op]
+
+# 系统相关
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 虚拟环境
+venv/
+.env
+
+# Jupyter Notebook检查点
+.ipynb_checkpoints/
